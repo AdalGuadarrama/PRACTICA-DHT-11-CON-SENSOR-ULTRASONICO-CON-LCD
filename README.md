@@ -31,5 +31,5 @@ Para realizar esta practica necesitas lo siguiente:
 
 ##### RESULTADOS
 Por ultimo podre visuaizar los datos en el monitor serial y en la pantalla LCD.
-###### CREDITOS 
+##### CREDITOS 
 Ing. Guadarrama Lome Adalberto

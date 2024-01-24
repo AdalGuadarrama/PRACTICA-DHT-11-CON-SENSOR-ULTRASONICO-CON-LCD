@@ -13,9 +13,23 @@ Para realizar esta practica necesitas lo siguiente:
 #### INSTRUCCIONES
 1. Abrimos nuestro programa WORWI y colocamos la terminal de programación y el siguiente codigo:
 ![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.0..png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.01.png)
 
 2. Instalar la libreria de DHT sensor library for ESPx y LiquidCrystal I2C:
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.1.png)
+
 3. Hacer la conexion de DHT11 con la ESP32:
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.2.png)
+
 4. Hacer la conexion de HC-SR04 con la ESP32:
-5. Hacer la conexion del LCD 16x2 (I2C) con la ESP32:
-6. Colocar la distancia dando doble click al sensor HC-SR04, la temperatura y humedad dando doble click al sensor DHT11:
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.3..png)
+
+5. Colocar la distancia dando doble click al sensor HC-SR04, la temperatura y humedad dando doble click al sensor DHT11:
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.4..png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.5..png)
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.6.png)
+
+##### RESULTADOS
+Por ultimo podre visuaizar los datos en el monitor serial y en la pantalla LCD.
+###### CREDITOS 
+Ing. Guadarrama Lome Adalberto

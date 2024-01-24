@@ -12,6 +12,8 @@ Para realizar esta practica necesitas lo siguiente:
 
 #### INSTRUCCIONES
 1. Abrimos nuestro programa WORWI y colocamos la terminal de programación y el siguiente codigo:
+![.](https://github.com/AdalGuadarrama/PRACTICA-DHT-11-CON-SENSOR-ULTRASONICO-CON-LCD/blob/main/p5.0..png)
+
 2. Instalar la libreria de DHT sensor library for ESPx y LiquidCrystal I2C:
 3. Hacer la conexion de DHT11 con la ESP32:
 4. Hacer la conexion de HC-SR04 con la ESP32:
